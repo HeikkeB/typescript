@@ -1,6 +1,6 @@
 #typescript
 
-## simple type: 
+## SIMPLE TYPE: 
   * number
   * string
   * boolean
@@ -9,5 +9,5 @@
 ## Array
 ## Tuples
 
-## complex type
+## COMPLEX TYPE:
   * Union
