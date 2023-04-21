@@ -1,4 +1,4 @@
-#typescript
+# TYPESCRIPT
 
 ## SIMPLE TYPE: 
   * number
